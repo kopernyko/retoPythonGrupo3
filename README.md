@@ -1,7 +1,7 @@
 # retoPythonGrupo3
 **Integrantes grupo:**
-    Nico Gómez
-    Pablo Cunat
+    Nico Gómez,
+    Pablo Cunat,
     Lorenzo Sabbatini
 
 **Tema:**
