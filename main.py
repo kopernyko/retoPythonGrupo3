@@ -16,7 +16,7 @@ producto["Stock"] = 9
 print(producto["Stock"])
 
 # Acceder con [] vs .get()
-#print(producto["Marca"])
+print(producto["Marca"])
 print(producto.get("Marca"))
 
 # SETS
